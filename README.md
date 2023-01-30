@@ -46,3 +46,8 @@
 <a href="https://abhishek003.hashnode.dev/vpc-subnet-networking" title="Working with AWS networking"><strong>Working with AWS networking</strong></a>
 
 <!-- HASHNODE_BLOG:END -->
+
+<!-- LinkedIN Artcle: START -->
+<p align="left">
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7008452914847391744/"><strong>Kubernetes Architecture</strong></a>
+<!-- LinkedIN Artcle: END -->
