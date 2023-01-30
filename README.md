@@ -14,7 +14,7 @@
   
 </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhi03-tech&label=PROFILE+VIEWS&style=flat" alt="abhi"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Abhi03-tech&label=PROFILE+VIEWS&style=flat" alt="abhi"/> </p>
 
 <br>
 
