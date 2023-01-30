@@ -1,4 +1,4 @@
-### Hi there 👋! I'm Abhishek
+### Hi there 👋! I'm Abhishek  <!-- <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"> -->
 
 **An integrator, who learns different tools & technologies and try to integrate it. Have Enthusiasm towards Cloud & DevOPS.**
 
