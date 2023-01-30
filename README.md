@@ -4,6 +4,11 @@
 
 > ***Thanks for visiting, kindly show a glimpse on my repositories.***
 
+<p align="left">
+<a> <img src="https://komarev.com/ghpvc/?username=Abhi03-tech&label=PROFILE+VIEWS&style=flat" alt="abhi"/> 
+</a>
+</p>
+
 ### Let's Connect:
 [<img align="left" alt="abhi | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][GitHub]
 [<img align="left" alt="abhi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
@@ -13,11 +18,6 @@
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   
 </a>
-
-<p align="left">
-<a> <img src="https://komarev.com/ghpvc/?username=Abhi03-tech&label=PROFILE+VIEWS&style=flat" alt="abhi"/> 
-</a>
-</p>
 
 <br>
 
