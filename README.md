@@ -2,7 +2,7 @@
 
 **An integrator, who learns different tools & technologies and try to integrate it. Have Enthusiasm towards Cloud & DevOPS.**
 
-> ***Thanks for visiting, kindly show a glimpse on my repositories on Github.***
+> ***Thanks for visiting, kindly show a glimpse on my repositories.***
 
 ### Let's Connect:
 [<img align="left" alt="abhi | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][GitHub]
