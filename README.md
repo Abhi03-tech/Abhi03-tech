@@ -42,7 +42,7 @@
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://abhishek003.hashnode.dev/vpc-subnet-networking" title="VPC, Subnet & Networking"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671024284920/Ak-mF6Kjh.png" alt="Working with AWS networking" width="250px" align="left" /></a>
+<a href="https://abhishek003.hashnode.dev/vpc-subnet-networking" title="VPC, Subnet & Networking"> </a>
 <a href="https://abhishek003.hashnode.dev/vpc-subnet-networking" title="Working with AWS networking"><strong>Working with AWS networking</strong></a>
 
 <!-- HASHNODE_BLOG:END -->
