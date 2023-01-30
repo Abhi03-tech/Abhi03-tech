@@ -16,7 +16,7 @@
 
 ### I'm Currently Working With:
 <img align="left" alt="Kubernetes" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Kubernetes_%28container_engine%29.png/640px-Kubernetes_%28container_engine%29.png"/>
-<img align="left" alt="AWS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg"/>
+<img align="left" alt="AWS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/640px-Amazon_Web_Services_Logo.svg.png"/>
 <img align="left" alt="Azure" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/640px-Microsoft_Azure_Logo.svg"/>
 <img align="left" alt="Docker" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png"/>
 <img align="left" alt="Ansible" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/640px-Ansible_logo.svg"/>
