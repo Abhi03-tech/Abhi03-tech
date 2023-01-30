@@ -1,12 +1,14 @@
-### Hi there 👋! I'm Abhishek  <!-- <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"> -->
+### Hi there 👋! I'm Abhishek 
 
 **An integrator, who learns different tools & technologies and try to integrate it. Have Enthusiasm towards Cloud & DevOPS.**
+
+> ***Thanks for visiting, kindly show a glimpse on my repositories on Github.***
 
 ### Let's Connect:
 [<img align="left" alt="abhi | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][GitHub]
 [<img align="left" alt="abhi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="abhi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
-[<img align="left" alt="abhi | Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />][Twitter]
+[<img align="left" alt="abhi | Hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />][Hashnode]
 <a href="abhishekkumar33118@gmail.com">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   
@@ -30,6 +32,8 @@
 <br><br>
 
 <!--- Links of Social Sites --->
-[LinkedIn]: https://www.linkedin.com/in/abhisheksingh003/
+
 [GitHub]: https://github.com/Abhi03-tech
+[LinkedIn]: https://www.linkedin.com/in/abhisheksingh003/
 [Twitter]: https://twitter.com/Abhitech03
+[Hashnode]: https://hashnode.com/@Abhishek003
