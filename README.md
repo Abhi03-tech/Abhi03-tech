@@ -49,5 +49,5 @@
 
 <!-- LinkedIN Artcle: START -->
 <p align="left">
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7008452914847391744/"><strong>Kubernetes Architecture</strong></a>
+<a href="https://www.linkedin.com/pulse/kubernetes-architecture-abhishek-kumar/?trackingId=OuCM3qNVRB%2BKOWO%2BAxVS%2Fw%3D%3D"><strong>Kubernetes Architecture</strong></a>
 <!-- LinkedIN Artcle: END -->
