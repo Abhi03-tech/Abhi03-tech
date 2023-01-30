@@ -4,11 +4,6 @@
 
 > ***Thanks for visiting, kindly show a glimpse on my repositories.***
 
-<p align="left">
-<a> <img src="https://komarev.com/ghpvc/?username=Abhi03-tech&label=PROFILE+VIEWS&style=flat" alt="abhi"/> 
-</a>
-</p>
-
 ### Let's Connect:
 [<img align="left" alt="abhi | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][GitHub]
 [<img align="left" alt="abhi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
@@ -56,3 +51,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/pulse/kubernetes-architecture-abhishek-kumar/?trackingId=OuCM3qNVRB%2BKOWO%2BAxVS%2Fw%3D%3D"><strong>Kubernetes Architecture</strong></a>
 <!-- LinkedIN Artcle: END -->
+
+  <p align="left">
+<b> <img src="https://komarev.com/ghpvc/?username=Abhi03-tech&label=PROFILE+VIEWS&style=flat" alt="abhi"/> 
+</b>
+</p>
