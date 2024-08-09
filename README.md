@@ -38,11 +38,11 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-<p align="left" style="display: flex; align-items: center;">
+<p align="left">
   <a href="https://abhishek003.hashnode.dev/deploy-multi-node-k8s-cluster-on-aws-using-kubeadm-cri-o">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1709644075996/dca0680c-a6f8-441d-a73a-d9652e6938d1.png" alt="Deploy multi node k8s cluster on aws using kubeadm & cri-o" width="250px" style="margin-right: 10px;" />
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1709644075996/dca0680c-a6f8-441d-a73a-d9652e6938d1.png" alt="Deploy multi node k8s cluster on aws using kubeadm & cri-o" width="250px" style="vertical-align: middle; margin-right: 10px;" />
   </a>
-  <a href="https://abhishek003.hashnode.dev/deploy-multi-node-k8s-cluster-on-aws-using-kubeadm-cri-o" title="Deploy multi node k8s cluster on AWS using kubeadm & cri-o">
+  <a href="https://abhishek003.hashnode.dev/deploy-multi-node-k8s-cluster-on-aws-using-kubeadm-cri-o" title="Deploy multi node k8s cluster on AWS using kubeadm & cri-o" style="vertical-align: middle;">
     <strong>Deploy multi node k8s cluster on AWS using kubeadm & cri-o</strong>
   </a>
 </p>
