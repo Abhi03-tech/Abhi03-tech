@@ -52,4 +52,13 @@
 <a href="https://abhishek003.hashnode.dev/building-a-resilient-lamp-stack-on-aws-with-cloudformation-and-auto-scaling" title="Deploy a lamp stack on aws with cloudformation and auto scaling"><strong>Deploy a lamp stack on aws with cloudformation and auto scaling</strong></a>
 </p>
 
+<br  clear="left" />
+<br />
+<br />
+
+<p align="left">
+<a href="https://abhishek003.hashnode.dev/aws-vpc-setup-with-private-subnets-bastion-host-and-load-balancer"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1720430575654/270d09c1-6b24-411a-adfc-bf75d913f3a5.png" alt="AWS VPC Setup with Private Subnets, Bastion Host and Load Balancer" width="250px" align="left" /></a>
+<a href="https://abhishek003.hashnode.dev/aws-vpc-setup-with-private-subnets-bastion-host-and-load-balancer" title="AWS VPC Setup with Private Subnets, Bastion Host and Load Balancer"><strong>AWS VPC Setup with Private Subnets, Bastion Host and Load Balancer</strong></a>
+</p>
+
 <!-- HASHNODE_BLOG:END -->
