@@ -25,10 +25,7 @@
 <img align="left" alt="Jenkins" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/640px-Jenkins_logo_with_title.svg.png"/>
 <img align="left" alt="Git" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/640px-Git-logo.svg.png"/>
 <img align="left" alt="Grafana" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Grafana_icon.svg/640px-Grafana_icon.svg.png"/>
-<img align="left" alt="Golang" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/640px-Go_Logo_Blue.svg.png"/>
 <img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
-<img align="left" alt="html" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"/>
-<img align="left" alt="css" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/>
 <br><br>
 
 <!--- Links of Social Sites --->
@@ -43,7 +40,10 @@
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
 <a href="https://abhishek003.hashnode.dev/deploy-multi-node-k8s-cluster-on-aws-using-kubeadm-cri-o"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1709644075996/dca0680c-a6f8-441d-a73a-d9652e6938d1.png" alt="deploy multi node k8s cluster on aws using kubeadm & cri-o" width="250px" align="left" /></a>
-<a href="https://abhishek003.hashnode.dev/deploy-multi-node-k8s-cluster-on-aws-using-kubeadm-cri-o" title="Deploy multi node k8s cluster on AWS"><strong>Deploy multi node k8s cluster on AWS</strong></a>
+<a href="https://abhishek003.hashnode.dev/deploy-multi-node-k8s-cluster-on-aws-using-kubeadm-cri-o" title="Deploy multi node k8s cluster on AWS using kubeadm & cri-o"><strong>Deploy multi node k8s cluster on AWS using kubeadm & cri-o</strong></a>
+
+<a href="https://abhishek003.hashnode.dev/building-a-resilient-lamp-stack-on-aws-with-cloudformation-and-auto-scaling"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681220579808/98b08ec2-eba6-41d7-af98-fed885cc965a.jpeg" alt="Deploy a lamp stack on aws with cloudformation and auto scaling" width="250px" align="left" /></a>
+<a href="https://abhishek003.hashnode.dev/building-a-resilient-lamp-stack-on-aws-with-cloudformation-and-auto-scaling" title="Deploy a lamp stack on aws with cloudformation and auto scaling"><strong>Deploy a lamp stack on aws with cloudformation and auto scaling</strong></a>
 
 <!-- HASHNODE_BLOG:END -->
 
