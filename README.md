@@ -42,8 +42,8 @@
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://abhishek003.hashnode.dev/deploy-multi-node-k8s-cluster-on-aws-using-kubeadm-cri-o"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1709644075996/dca0680c-a6f8-441d-a73a-d9652e6938d1.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" </a>
-<a href="https://abhishek003.hashnode.dev/vpc-subnet-networking" title="Working with AWS networking"><strong>Working with AWS networking</strong></a>
+<a href="https://abhishek003.hashnode.dev/deploy-multi-node-k8s-cluster-on-aws-using-kubeadm-cri-o"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1709644075996/dca0680c-a6f8-441d-a73a-d9652e6938d1.png" alt="deploy multi node k8s cluster on aws using kubeadm & cri-o" width="250px" align="left" /></a>
+<a href="https://abhishek003.hashnode.dev/deploy-multi-node-k8s-cluster-on-aws-using-kubeadm-cri-o" title="Deploy multi node k8s cluster on AWS"><strong>Deploy multi node k8s cluster on AWS</strong></a>
 
 <!-- HASHNODE_BLOG:END -->
 
