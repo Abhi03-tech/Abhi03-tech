@@ -53,7 +53,6 @@
 </p>
 
 <br  clear="left" />
-<br />
 
 <p align="left">
 <a href="https://abhishek003.hashnode.dev/aws-vpc-setup-with-private-subnets-bastion-host-and-load-balancer"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1720430575654/270d09c1-6b24-411a-adfc-bf75d913f3a5.png" alt="AWS VPC Setup with Private Subnets, Bastion Host and Load Balancer" width="250px" align="left" /></a>
