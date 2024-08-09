@@ -38,19 +38,28 @@
 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-<div align="left">
-<a href="https://abhishek003.hashnode.dev/deploy-multi-node-k8s-cluster-on-aws-using-kubeadm-cri-o"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1709644075996/dca0680c-a6f8-441d-a73a-d9652e6938d1.png" alt="deploy multi node k8s cluster on aws using kubeadm & cri-o" width="250px" align="left" /></a>
-<a href="https://abhishek003.hashnode.dev/deploy-multi-node-k8s-cluster-on-aws-using-kubeadm-cri-o" title="Deploy multi node k8s cluster on AWS using kubeadm & cri-o"><strong>Deploy multi node k8s cluster on AWS using kubeadm & cri-o</strong></a>
-</div>
+<p align="left">
+  <a href="https://abhishek003.hashnode.dev/deploy-multi-node-k8s-cluster-on-aws-using-kubeadm-cri-o">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1709644075996/dca0680c-a6f8-441d-a73a-d9652e6938d1.png" alt="Deploy multi node k8s cluster on aws using kubeadm & cri-o" width="250px" style="float: left; margin-right: 10px;" />
+  </a>
+  <a href="https://abhishek003.hashnode.dev/deploy-multi-node-k8s-cluster-on-aws-using-kubeadm-cri-o" title="Deploy multi node k8s cluster on AWS using kubeadm & cri-o">
+    <strong>Deploy multi node k8s cluster on AWS using kubeadm & cri-o</strong>
+  </a>
+</p>
 
 <br  clear="left" />
 <br />
 <br />
 
-<div align="left">
-<a href="https://abhishek003.hashnode.dev/building-a-resilient-lamp-stack-on-aws-with-cloudformation-and-auto-scaling"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681220579808/98b08ec2-eba6-41d7-af98-fed885cc965a.jpeg" alt="Deploy a lamp stack on aws with cloudformation and auto scaling" width="250px" align="left" /></a>
-<a href="https://abhishek003.hashnode.dev/building-a-resilient-lamp-stack-on-aws-with-cloudformation-and-auto-scaling" title="Deploy a lamp stack on aws with cloudformation and auto scaling"><strong>Deploy a lamp stack on aws with cloudformation and auto scaling</strong></a>
-</div>
+<p align="left">
+  <a href="https://abhishek003.hashnode.dev/building-a-resilient-lamp-stack-on-aws-with-cloudformation-and-auto-scaling">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681220579808/98b08ec2-eba6-41d7-af98-fed885cc965a.jpeg" alt="Deploy a lamp stack on aws with cloudformation and auto scaling" width="250px" style="float: left; margin-right: 10px;" />
+  </a>
+  <a href="https://abhishek003.hashnode.dev/building-a-resilient-lamp-stack-on-aws-with-cloudformation-and-auto-scaling" title="Deploy a lamp stack on aws with cloudformation and auto
+    scaling">
+    <strong>Deploy a lamp stack on aws with cloudformation and auto scaling</strong>
+  </a>
+</p>
 
 <br  clear="left" />
 <br />
