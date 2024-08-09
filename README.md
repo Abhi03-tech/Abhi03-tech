@@ -43,7 +43,7 @@
 <a href="https://abhishek003.hashnode.dev/deploy-multi-node-k8s-cluster-on-aws-using-kubeadm-cri-o" title="Deploy multi node k8s cluster on AWS using kubeadm & cri-o"><strong>Deploy multi node k8s cluster on AWS using kubeadm & cri-o</strong></a>
 </p>
 
-<br />
+<br  clear="left" />
 
 <p align="left">
 <a href="https://abhishek003.hashnode.dev/building-a-resilient-lamp-stack-on-aws-with-cloudformation-and-auto-scaling"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681220579808/98b08ec2-eba6-41d7-af98-fed885cc965a.jpeg" alt="Deploy a lamp stack on aws with cloudformation and auto scaling" width="250px" align="left" /></a>
