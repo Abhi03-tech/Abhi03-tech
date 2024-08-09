@@ -49,13 +49,9 @@
 <br />
 
 <p align="left">
-  <a href="https://abhishek003.hashnode.dev/building-a-resilient-lamp-stack-on-aws-with-cloudformation-and-auto-scaling">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681220579808/98b08ec2-eba6-41d7-af98-fed885cc965a.jpeg" alt="Deploy a lamp stack on aws with cloudformation and auto scaling" width="250px" style="float: left; margin-right: 5px;" />
-  </a>
-  <a href="https://abhishek003.hashnode.dev/building-a-resilient-lamp-stack-on-aws-with-cloudformation-and-auto-scaling" title="Deploy a lamp stack on aws with cloudformation and auto
-    scaling">
-    <strong>Deploy a lamp stack on aws with cloudformation and auto scaling</strong>
-  </a>
+<a href="https://abhishek003.hashnode.dev/building-a-resilient-lamp-stack-on-aws-with-cloudformation-and-auto-scaling"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681220579808/98b08ec2-eba6-41d7-af98-fed885cc965a.jpeg" alt="Deploy a lamp stack on aws with cloudformation and auto scaling" width="250px" align="left" /></a>
+<a href="https://abhishek003.hashnode.dev/building-a-resilient-lamp-stack-on-aws-with-cloudformation-and-auto-scaling" title="Deploy a lamp stack on aws with cloudformation and auto scaling"><strong>Deploy a lamp stack on aws with cloudformation and auto scaling</strong>
+</a>
 </p>
 
 <br  clear="left" />
